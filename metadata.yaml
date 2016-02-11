@@ -1,0 +1,28 @@
+_repo: Fathers-and-Sons_47935
+contributor:
+  translator:
+    agent_name: Hogarth, Charles James
+    gutenberg_agent_id: '44530'
+    url: http://www.gutenberg.org/2009/agents/44530
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2015-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Fathers and Sons
+url: http://www.gutenberg.org/ebooks/47935
