@@ -1,9 +1,13 @@
 _repo: Fathers-and-Sons_47935
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hogarth, Charles James
     gutenberg_agent_id: '44530'
     url: http://www.gutenberg.org/2009/agents/44530
+covers:
+- cover_type: archival
+  image_path: 47935-h/images/cover.jpg
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47935#Fathers-and-Sons
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
